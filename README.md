@@ -1,4 +1,4 @@
 # SK-Demo2
 ```
-apt-get update -y
+sudo -u   apt-get update -y
 ```
